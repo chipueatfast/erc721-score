@@ -1,3 +1,0 @@
-[submodule "blockchain-service"]
-	path = blockchain-service
-	url = git@github.com:chipueatfast/erc721-score.git
